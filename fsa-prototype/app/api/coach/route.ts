@@ -2,9 +2,12 @@ import Groq from "groq-sdk";
 import { NextRequest, NextResponse } from "next/server";
 import type { AISummary } from "../../../lib/assessment";
 
-const client = new Groq({ apiKey: process.env.GROQ_API_KEY });
-
 export async function POST(req: NextRequest) {
+  const apiKey = process.env.GROQ_API_KEY;
+  if (!apiKey) {
+    return NextResponse.json({ error: "GROQ_API_KEY not configured" }, { status: 503 });
+  }
+  const client = new Groq({ apiKey });
   const { summary, normalizedScores } = (await req.json()) as {
     summary: AISummary;
     normalizedScores?: { pitchNorm: number; coverageNorm: number; onTimeNorm: number } | null;
