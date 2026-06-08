@@ -1,7 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(node --experimental-strip-types scripts/eval-deviations.mjs)"
-    ]
-  }
-}
