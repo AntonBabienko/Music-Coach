@@ -5,8 +5,6 @@ Parameters
 Licensor:             Anton Babienko
 Licensed Work:        Music Coach - Core Prototype
                       The Licensed Work is (c) 2026 Anton Babienko
-Change Date:          2027-06-08
-Change License:       MIT
 
 For information about alternative commercial licensing arrangements for the
 Licensed Work, please contact: anton.babienko1337@gmail.com
@@ -51,14 +49,7 @@ commercial purposes, which include but are not limited to:
 If your use of the Licensed Work is not permitted by this Agreement, you
 must obtain a commercial license from Licensor.
 
-2. CHANGE DATE / CHANGE LICENSE
-
-On the Change Date (2027-06-08), the Licensed Work will be released under
-the Change License (MIT License), at which point the provisions of this
-Business Source License will no longer apply. After the Change Date, you
-will be entitled to use the Licensed Work under the terms of the MIT License.
-
-3. RESTRICTIONS
+2. RESTRICTIONS
 
 You may not:
 
@@ -69,32 +60,32 @@ You may not:
      Licensed Work
   d) Offer the Licensed Work as a managed service or SaaS offering
 
-4. INTELLECTUAL PROPERTY RIGHTS
+3. INTELLECTUAL PROPERTY RIGHTS
 
 The Licensor retains all right, title, and interest in the Licensed Work,
 including all intellectual property rights therein. Your rights in the
 Licensed Work are limited to the license granted in this Agreement.
 
-5. DISCLAIMER OF WARRANTIES
+4. DISCLAIMER OF WARRANTIES
 
 THE LICENSED WORK IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS
 OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
 
-6. LIMITATION OF LIABILITY
+5. LIMITATION OF LIABILITY
 
 IN NO EVENT WILL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL,
 CONSEQUENTIAL, OR PUNITIVE DAMAGES, HOWEVER CAUSED AND ON ANY THEORY OF
 LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
 NEGLIGENCE), EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-7. TERMINATION
+6. TERMINATION
 
 This Agreement will automatically terminate and be revoked if you breach any
 of its terms. Upon termination, you must destroy all copies of the Licensed
 Work in your possession.
 
-8. GENERAL
+7. GENERAL
 
 This Agreement constitutes the entire agreement between you and Licensor
 regarding the Licensed Work and supersedes all prior and concurrent
