@@ -1,0 +1,26 @@
+{
+  "as-pants-the-hart": {
+    "f1": 0.4697,
+    "precision": 0.4945,
+    "recall": 0.4474,
+    "pitchAccuracy": 44.7
+  },
+  "jesus-lives": {
+    "f1": 0.7391,
+    "precision": 0.7325,
+    "recall": 0.7458,
+    "pitchAccuracy": 74.6
+  },
+  "mercy": {
+    "f1": 0.7174,
+    "precision": 0.6607,
+    "recall": 0.7849,
+    "pitchAccuracy": 78.5
+  },
+  "scale-clean": {
+    "f1": 1,
+    "precision": 1,
+    "recall": 1,
+    "pitchAccuracy": 100
+  }
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="170" viewBox="0 0 640 170">
+  <rect width="640" height="170" fill="#ffffff" />
+  <line x1="8" y1="120" x2="632" y2="120" stroke="#000000" stroke-width="1.6" />
+  <line x1="8" y1="108" x2="632" y2="108" stroke="#000000" stroke-width="1.6" />
+  <line x1="8" y1="96" x2="632" y2="96" stroke="#000000" stroke-width="1.6" />
+  <line x1="8" y1="84" x2="632" y2="84" stroke="#000000" stroke-width="1.6" />
+  <line x1="8" y1="72" x2="632" y2="72" stroke="#000000" stroke-width="1.6" />
+  <ellipse cx="44" cy="132" rx="6" ry="4.5" fill="#000000" />
+  <ellipse cx="80" cy="126" rx="6" ry="4.5" fill="#000000" />
+  <ellipse cx="116" cy="120" rx="6" ry="4.5" fill="#000000" />
+  <ellipse cx="152" cy="114" rx="6" ry="4.5" fill="#000000" />
+  <ellipse cx="188" cy="108" rx="6" ry="4.5" fill="#000000" />
+  <ellipse cx="224" cy="102" rx="6" ry="4.5" fill="#000000" />
+  <ellipse cx="260" cy="96" rx="6" ry="4.5" fill="#000000" />
+  <ellipse cx="296" cy="90" rx="6" ry="4.5" fill="#000000" />
+  <ellipse cx="332" cy="90" rx="6" ry="4.5" fill="#000000" />
+  <ellipse cx="368" cy="96" rx="6" ry="4.5" fill="#000000" />
+  <ellipse cx="404" cy="102" rx="6" ry="4.5" fill="#000000" />
+  <ellipse cx="440" cy="108" rx="6" ry="4.5" fill="#000000" />
+  <ellipse cx="476" cy="114" rx="6" ry="4.5" fill="#000000" />
+  <ellipse cx="512" cy="120" rx="6" ry="4.5" fill="#000000" />
+  <ellipse cx="548" cy="126" rx="6" ry="4.5" fill="#000000" />
+  <ellipse cx="584" cy="132" rx="6" ry="4.5" fill="#000000" />
+</svg>

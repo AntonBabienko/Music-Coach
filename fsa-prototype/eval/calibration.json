@@ -1,0 +1,14 @@
+{
+  "fixture": "jesus-lives",
+  "capturedAt": "2026-06-07T16:58:04.142Z",
+  "pitchCeiling": 70.1,
+  "coverageCeiling": 78.9,
+  "onTimeCeiling": 58.6,
+  "thresholds": {
+    "onsetThreshold": 0.556,
+    "frameThreshold": 0.367,
+    "velocityThreshold": 0.162,
+    "minNoteFrames": 11,
+    "ghostRatio": 0
+  }
+}

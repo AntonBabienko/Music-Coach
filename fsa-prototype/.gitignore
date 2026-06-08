@@ -1,0 +1,26 @@
+/node_modules
+/.next
+/out
+/build
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+.env*.local
+
+# Generated demo assets (run `npm run gen-assets`)
+/public/sample-performance.mid
+/public/sample-performance.wav
+/public/sample-score.svg
+
+# Eval corpus + cached CNN tensors (regenerate: `npm run eval:seed && npm run eval:capture`).
+# golden.json (the committed baseline) is kept.
+/eval/fixtures
+/eval/captures
+/eval/corpus
+
+# Playwright output (generated on test run, not part of source)
+/playwright-report
+/test-results
+
+# Scratch files
+/fsa-prototype

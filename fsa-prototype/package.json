@@ -1,0 +1,46 @@
+{
+  "name": "music-coach-prototype",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "gen-midi": "node scripts/gen-midi.mjs",
+    "gen-audio": "node scripts/gen-audio.mjs",
+    "gen-image": "node scripts/gen-score-image.mjs",
+    "gen-assets": "node scripts/gen-midi.mjs && node scripts/gen-audio.mjs && node scripts/gen-score-image.mjs",
+    "gen-fixtures": "node scripts/gen-fixtures.mjs",
+    "eval:seed": "node --experimental-strip-types scripts/eval-seed.mjs",
+    "eval:capture": "node --experimental-strip-types scripts/eval-capture.mjs",
+    "eval:reground": "node --experimental-strip-types scripts/eval-reground.mjs",
+    "eval": "node --experimental-strip-types scripts/eval.mjs",
+    "eval:calibrate": "node --experimental-strip-types scripts/eval-calibrate.mjs",
+    "eval:cross": "node --experimental-strip-types scripts/eval-cross.mjs",
+    "test:e2e": "playwright test",
+    "test:e2e:ui": "playwright test --ui"
+  },
+  "dependencies": {
+    "@spotify/basic-pitch": "^1.0.1",
+    "@tonejs/midi": "^2.0.28",
+    "@types/adm-zip": "^0.5.8",
+    "adm-zip": "^0.5.17",
+    "fast-xml-parser": "^5.8.0",
+    "groq-sdk": "^1.2.1",
+    "next": "^16.2.7",
+    "opensheetmusicdisplay": "^1.9.9",
+    "pdfjs-dist": "^6.0.227",
+    "pitchy": "^4.1.0",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "tone": "^15.1.22"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.1",
+    "@types/react": "^19.2.16",
+    "@types/react-dom": "^19.2.3",
+    "audio-decode": "^3.10.1",
+    "typescript": "^6.0.3"
+  }
+}

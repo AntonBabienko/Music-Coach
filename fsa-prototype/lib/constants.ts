@@ -1,0 +1,1 @@
+export const DEFAULT_NOTE_DURATION_SEC = 0.4;
