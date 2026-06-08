@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd fsa-prototype && npm run build",
+  "devCommand": "cd fsa-prototype && npm run dev",
+  "installCommand": "cd fsa-prototype && npm install",
+  "outputDirectory": "fsa-prototype/.next"
+}
